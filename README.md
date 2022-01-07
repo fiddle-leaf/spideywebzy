@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neselium
+- 👋 Hi, I’m Shanon :)
 - 👀 I’m interested in photography, graphic design, and web development.
 - 🌱 I’m currently learning front-end development with the Odin Project
 
